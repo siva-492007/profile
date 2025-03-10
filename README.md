@@ -1,8 +1,6 @@
-# profile
+# About me
 <h1 align="center">Hi 👋, I'm Vignesh Siva Patturajan</h1>
 <h3 align="center">Cloud and DevOps Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva-492007" alt="siva-492007" /></a> </p>
 
 - 🔭 I’m currently on a cosmic journey pursuing a **Master of Science in Computer Science at Arizona State University**
 
